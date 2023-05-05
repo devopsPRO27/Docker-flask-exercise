@@ -7,9 +7,9 @@ Flask is a web framework, it’s a Python module that lets you develop web appli
 
 #### first clone the code
 #### use pip to insall the packages for the app 
-#### pip install -r [[<filename.extention>]]
+#### pip install -r filename.extention
 #### requirments.txt is the packages you need to install
-#### then add env named FLASK_APP=<python file.py>
+#### then add env named FLASK_APP= python file.py
 
 ## expose the port that you want 
   
