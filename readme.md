@@ -14,7 +14,7 @@ Flask is a web framework, it’s a Python module that lets you develop web appli
 ## expose the port that you want 
   
 ## to run the flask app use 
-### flask run --port= ((<the exposed port>))
+### flask run --port= the exposed port
 
   
 #### build a docker file to run the app inside container and publish it to docker hub 
